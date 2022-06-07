@@ -28,5 +28,10 @@
   },
   "devDependencies": {
     "superstatic": "^7.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinszeltins/css-container-queries-polyfill.git"
+  },
+  "homepage": "https://github.com/martinszeltins/css-container-queries-polyfill"
 }
